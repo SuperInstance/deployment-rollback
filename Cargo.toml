@@ -1,9 +1,11 @@
 [package]
 name = "deployment-rollback"
 version = "0.1.0"
-description = "A Rust library for Deployment Rollback"
+description = "Deployment Rollback — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/deployment-rollback"
+repository = "https://github.com/SuperInstance/deployment-rollback"
 edition = "2021"
+
+keywords = ["deployment-rollback"]
 
 [dependencies]
